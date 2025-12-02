@@ -1,1 +1,1 @@
-Gonna test some stuff with git. This is a cat.
+Gonna test some stuff with git. This is a mouse. This is a house.
